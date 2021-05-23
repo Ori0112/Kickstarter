@@ -43,11 +43,17 @@ The main challenge that I encountered was organizing the “Outcomes Based on Go
 ## Results
  
 The conclusions that can be made about theatre outcomes based on launch date are:
+
+![Screenshot](Theatre_Outcomes_vs_Launch.png)
+
 1.	May and June would be the best months to launch the campaign
 2.	January, March, September, and December would be the worst months to launch
 
  
 The conclusions that can be made on outcomes based on Goals are:
+
+![Screenshot](Outcome_vs_Goals.png)
+
 1.	When campaign goals are set too high, especially above $25,000, there is a far greater chance of the campaign failing. Campaigns between $10,000-$14,999 and less had greater success rates.
 Summary:
 
