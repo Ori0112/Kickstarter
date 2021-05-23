@@ -19,12 +19,11 @@ When I first familiarized myself with the dataset; we organized it by adding fil
 
 The first step taken into finding a trend was to analyze the outcomes of the parent categories in the dataset.
 
-![Parent_Category_Outcomes](path/to/Parent_Category_Outcomes.png)
-
-
+![Screenshot](Parent_Category_Outcomes.png)
 
 In doing so we found that "Theatre" had the greatest rate of success compared to the other categories.
 
+![Screenshot](Subcategory Outcome.png)
 
 When analyzing the subcategories, plays had significantly the most success in comparison to the other subcategories.
  
