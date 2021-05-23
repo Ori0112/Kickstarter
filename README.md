@@ -58,3 +58,7 @@ The conclusions that can be made on outcomes based on Goals are:
 
 ### Summary:
 
+* A more up-to-date dataset in regards to years would have been more helpful. If we had a dataset that had projects finished at least in 2019, Louise would be able to mirror her campaign based on more current examples.
+
+*	More data about ongoing funding could have also been helpful to Louise, especially if she wants her play to last beyond a successful launch. Therefore, more information on how long other productions lasted and how much needed to be pledged to maintain the production. I would have also have included a graph to show the average of how long shows would last after their successful launch.
+
