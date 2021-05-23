@@ -23,11 +23,13 @@ The first step taken into finding a trend was to analyze the outcomes of the par
 
 In doing so we found that "Theatre" had the greatest rate of success compared to the other categories.
 
-![Screenshot](Subcategory Outcome.png)
+![Screenshot](Subcategory_Outcomes.png)
 
 When analyzing the subcategories, plays had significantly the most success in comparison to the other subcategories.
  
 Then we looked into what would be the best time to launch the Kickstarter campaign.
+
+
  
 Based on our “Launch Date Outcomes,” we concluded that May experienced the successful Kickstarter campaign launches and January, June, July, and October experienced the most failures.
 Eventually, our “Descriptive Statistics” revealed that US Kickstarter campaigns for plays have failed due to having fundraising goals that are too high, especially in comparison to campaigns that have succeeded.
