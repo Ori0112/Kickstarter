@@ -29,14 +29,18 @@ When analyzing the subcategories, plays had significantly the most success in co
  
 Then we looked into what would be the best time to launch the Kickstarter campaign.
 
-
+![Screenshot](Launch_Date_Outcomes.png)
  
 Based on our “Launch Date Outcomes,” we concluded that May experienced the successful Kickstarter campaign launches and January, June, July, and October experienced the most failures.
+
 Eventually, our “Descriptive Statistics” revealed that US Kickstarter campaigns for plays have failed due to having fundraising goals that are too high, especially in comparison to campaigns that have succeeded.
+
 We also have to acknowledge that Louise is asking for more than twice the average of successful campaign goals, which statistically means she will most likely fail.
-	Challenges: 
-	The main challenge that I encountered was organizing the “Outcomes Based on Goals” correctly. I struggled to nest the “COUNTIF” formula correctly, I originally assumed that if I had the dataset already filtered I would get the accurate number of outcomes. However, after some trial and error, I learned to correctly nest the formula and receive the accurate numbers.
-Results
+
+### Challenges: 
+The main challenge that I encountered was organizing the “Outcomes Based on Goals” correctly. I struggled to nest the “COUNTIF” formula correctly, I originally assumed that if I had the dataset already filtered I would get the accurate number of outcomes. However, after some trial and error, I learned to correctly nest the formula and receive the accurate numbers.
+
+## Results
  
 The conclusions that can be made about theatre outcomes based on launch date are:
 1.	May and June would be the best months to launch the campaign
