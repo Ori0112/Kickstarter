@@ -55,5 +55,6 @@ The conclusions that can be made on outcomes based on Goals are:
 ![Screenshot](Outcome_vs_Goals.png)
 
 1.	When campaign goals are set too high, especially above $25,000, there is a far greater chance of the campaign failing. Campaigns between $10,000-$14,999 and less had greater success rates.
-Summary:
+
+### Summary:
 
