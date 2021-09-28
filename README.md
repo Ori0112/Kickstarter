@@ -2,15 +2,13 @@
 
 ## Overview of Project:
 
-The purpose of this project is to help Louise, a playwriter, who is seeking funding to start her play Fever. We are in charge of organizing a crowdfunding campaign, through Kickstarter, to reach her estimated budget of at least $12,000.
-
-My responsibility is to sort, organize, and analyze crowdfunding data that can possibly reveal key indicators to an efficient campaign. Based on our findings, we will develop a campaign for Louise which will set her up for success.
+This report will look at more than 4000 kickstarter crowdfunding campaigns from different countries. The data analyzed includes the name, blurb, funding goal, amount of money pledged, outcome, country, currency, deadline, date launched, number of backers, category, and subcategory. The goal of the analysis is to help Louise compare similar campaigns to better approach hers. We will evaluate how the funding goal and different launch dates affected the outcome of theater/plays campaigns.
 
 ## Analysis and Challenges:
 
 ### Analysis:
   
-When I first familiarized myself with the dataset; we organized it by adding filters to concentrate on:
+When first analyzing the dataset; we organized it by adding filters to concentrate on:
 
 *	what were the goals set 
 *	how much was pledged on each goal
